@@ -1,4 +1,4 @@
-#### 1441. Build an Array With Stack Operations
+### 1441. Build an Array With Stack Operations
 
 You are given an integer array `target` and an integer `n`.
 
@@ -49,3 +49,9 @@ The answers that read integer 3 from the stream are not accepted.
 - `1 <= n <= 100`
 - `1 <= target[i] <= n`
 - `target` is strictly increasing.
+
+### My results
+
+|  Runtime  | Memory usage |
+|:---------:|:------------:|
+|   0 ms    |   41.6 MB    |
